@@ -35,8 +35,8 @@ function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
 function init() {
-  inquirer.prompt(questions).then((a) => {
-    console.log(a);
+  inquirer.prompt(questions).then((answer) => {
+    console.log(answer);
     // console.log("title is " + a.projectTitle);
   });
 }
