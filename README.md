@@ -5,4 +5,5 @@ This repository contains code that allows for the user to enter information to g
 
 Below shows a video demonstrating the project.
 
-"C:\Users\rrval\Downloads\Visual Studio Code - index.js - Readme-node-2 - Visual Studio Code - 13 July 2022.mp4"
+Visual Studio Code - index.js - Readme-node-2 - Visual Studio Code - 13 July 2022 - Watch Video
+
