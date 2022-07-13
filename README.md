@@ -4,4 +4,5 @@
 This repository contains code that allows for the user to enter information to genrate a readme file. This was done using node.js.
 
 Below shows a video demonstrating the project.
-https://loom.com/share/ab69ef338d004f29b060e42358d7e108
+
+"C:\Users\rrval\Downloads\Visual Studio Code - index.js - Readme-node-2 - Visual Studio Code - 13 July 2022.mp4"
